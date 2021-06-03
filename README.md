@@ -1,6 +1,8 @@
 # WebProgramlama
 
-Merhaba, Web Programlama dersi ödevim. Kapladıkları yer yüzünden dosyaları parçalara bölmek zorundaydım, github 25mb ve üstü bir şey yüklememize izin vermiyor.
+Merhaba, Web Programlama dersi ödevimi burada paylaşıyor olacağım
+
+Kapladıkları yer yüzünden dosyaları parçalara bölmek zorundaydım, github 25mb ve üstü bir şey yüklememize izin vermiyor.
 
 İlk olarak, Web programlama'yı rardan çıkarın, bu bizim ana klasörümüz.
 proje.web1 ve proje.web2'yi rardan çıkarıp birleştirin, ana klasörümüz içinde Proje.Web isminde bir dosya oluşturun ve birleştirdiklerimizi buraya atın.
