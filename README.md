@@ -8,8 +8,10 @@ tools kalan ve toolsRoslyn45'i rardan çıkarın, bunları birleştirin. Ana kla
 
 Görsel olarak dizinler:
 
-https://i.ibb.co/R9YXCYd/Screenshot-4.png /n
-https://i.ibb.co/rvbDD9G/Screenshot-2.png /n
+https://i.ibb.co/R9YXCYd/Screenshot-4.png
+
+https://i.ibb.co/rvbDD9G/Screenshot-2.png
+
 https://i.ibb.co/yWq2GR5/Screenshot-3.png
 
 Site adresim: http://ationder-001-site1.itempurl.com/
