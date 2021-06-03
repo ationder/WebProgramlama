@@ -3,4 +3,4 @@
 Merhaba
 Web Programlama dersi ödevim.
 
-http://webprogramlama-dev-as.azurewebsites.net/
+http://ationder-001-site1.itempurl.com/
