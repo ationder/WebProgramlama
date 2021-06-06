@@ -20,4 +20,4 @@ https://i.ibb.co/yWq2GR5/Screenshot-3.png
 
 Site adresim: http://ationder-001-site1.itempurl.com/
 
-giriş için kullanıcı adı ve şifre a
+default kullanıcı girişi için kullanıcı adı & şifre: a
